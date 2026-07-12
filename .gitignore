@@ -1,0 +1,11 @@
+# Generado por gen_manifest.ps1
+# Versiona solo el manifiesto y los archivos listados (ruta real).
+*
+!.gitignore
+!manifest.json
+!RustLauncher.exe
+!GameLauncher/
+!GameLauncher/GameLauncher_Data/
+!GameLauncher/GameLauncher_Data/Plugins/
+!GameLauncher/GameLauncher_Data/Plugins/x86_64/
+!GameLauncher/GameLauncher_Data/Plugins/x86_64/EasyAntiCheat.dll
