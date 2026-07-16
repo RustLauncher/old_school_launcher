@@ -9,3 +9,10 @@
 !GameLauncher/GameLauncher_Data/Plugins/
 !GameLauncher/GameLauncher_Data/Plugins/x86_64/
 !GameLauncher/GameLauncher_Data/Plugins/x86_64/EasyAntiCheat.dll
+!GameLauncher/GameLauncher_Data/Resources/
+!GameLauncher/GameLauncher_Data/Resources/default/
+!GameLauncher/GameLauncher_Data/Resources/default/renew/
+!GameLauncher/GameLauncher_Data/Resources/default/renew/libs/
+!GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/
+!GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/
+!GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/ArgosEyeBooster.dll

@@ -1,13 +1,17 @@
 {
-    "version":  "1.3.0",
+    "version":  "1.4.0",
     "files":  [
                   {
                       "path":  "RustLauncher.exe",
-                      "sha256":  "bea63383667654309788bf54d845680733f9926e1f8c392fb3ac558a9b37d0f7"
+                      "sha256":  "2be841cb5d69268588d705203aeb521054c72aebd1468e12495da1baa5a3a7b7"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Plugins/x86_64/EasyAntiCheat.dll",
                       "sha256":  "f3cda242b9c3126c1ff184d169ca6d91a6fd30d92e0f7dced83f268b79eb834f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/ArgosEyeBooster.dll",
+                      "sha256":  "cb08501e16b1ad371397bd556c64fb276c04ecb3d0e5c4b92888e87b70ff305e"
                   }
               ]
 }
