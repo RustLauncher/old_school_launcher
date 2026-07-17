@@ -1,9 +1,9 @@
 {
-    "version":  "1.5.2",
+    "version":  "1.6.0",
     "files":  [
                   {
                       "path":  "RustLauncher.exe",
-                      "sha256":  "6eb825a95f90d71f78739a8682a238a17643609d7e7f0ae7cf03aee76dbcf8a8"
+                      "sha256":  "fdbd208fd31ca1125002fb601f0dd0fc3ecd513af9de37348da299b0303d4b40"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Plugins/x86_64/EasyAntiCheat.dll",
