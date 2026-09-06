@@ -12,6 +12,10 @@
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/ArgosEyeBooster.dll",
                       "sha256":  "f23effcc776f34479dfe941bbaf5e1434279403d0480ce66a8769c32cec9489a"
+                  },
+                  {
+                      "path":  "GameLauncher/winhttp.dll",
+                      "sha256":  "d3b62f4c9c3e2196ef82603c52d6b98c043a0d6c125c081fd33d7ca3798b41b8"
                   }
               ]
 }
