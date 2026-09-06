@@ -16,6 +16,10 @@
                   {
                       "path":  "GameLauncher/winhttp.dll",
                       "sha256":  "d3b62f4c9c3e2196ef82603c52d6b98c043a0d6c125c081fd33d7ca3798b41b8"
+                  },
+                  {
+                      "path":  "GameLauncher/doorstop_config.ini",
+                      "sha256":  "98d4b6f2e25109341433964d8ebe3699c3cf4501b97994debd40736a7f340431"
                   }
               ]
 }

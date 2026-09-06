@@ -1,0 +1,7 @@
+# Archivos que el launcher verifica por hash: git NO debe convertir los finales
+# de linea (LF<->CRLF). Si lo hiciera, el hash dejaria de cuadrar con el del
+# manifiesto y el launcher daria "no es valido (hash)".
+GameLauncher/doorstop_config.ini binary
+*.ini binary
+*.exe binary
+*.dll binary
