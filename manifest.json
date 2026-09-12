@@ -7,7 +7,7 @@
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Plugins/x86_64/EasyAntiCheat.dll",
-                      "sha256":  "708282dbe0d0e596a6b2f93ecb7d3247286624a67c4ad824d62363d558dbd523"
+                      "sha256":  "84fa506acca2004ee2025c83ff354aabb96f8cdf9f2aa62940e20d84bd34c1c6"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/ArgosEyeBooster.dll",
