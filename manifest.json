@@ -14,6 +14,10 @@
                       "sha256":  "f23effcc776f34479dfe941bbaf5e1434279403d0480ce66a8769c32cec9489a"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/OpenURLPlugin.dll",
+                      "sha256":  "5363e4baa82c1158695f8385f92516d27e08c77bdff3b5f05368972e88ee1bda"
+                  },
+                  {
                       "path":  "GameLauncher/winhttp.dll",
                       "sha256":  "d3b62f4c9c3e2196ef82603c52d6b98c043a0d6c125c081fd33d7ca3798b41b8"
                   },
