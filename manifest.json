@@ -30,6 +30,10 @@
                       "sha256":  "dfe3df2be530fee71efae68884fe991ced7fe655039c262c9325177df083c159"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/4322-104-mortyoof.png",
+                      "sha256":  "424409c89020943f124b385ba4df85e2904d30a2b56b98468323f60c9c8ab2cf"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/angry-frieren.png",
                       "sha256":  "90a7e1baa1c2dd9d7b824c067f5e15ba9aea459eb1511425cc80bc8b081fab08"
                   },
@@ -42,6 +46,14 @@
                       "sha256":  "0e60579ff6c01352ac094c209c7cdb966d52e78c141eb9c2df0c469b30e20627"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/blueMee6.png",
+                      "sha256":  "4f12ce2286a85cd830bb7720b1f8b185c2ec5146f52dd8bd3de2b7508141fbc5"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/chfoxfireahrilaugh.png",
+                      "sha256":  "965af7c9b34cab827563247d0fb5740ac721a1378f5f3892d868dce5b976cfc5"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/choso-facepalm.png",
                       "sha256":  "9f8b25313fc3e892dda14e5e99e712ce228e49953a4dbc748733eb539914112e"
                   },
@@ -52,6 +64,18 @@
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/deletethis.png",
                       "sha256":  "63c29e23ced084184ef4ef292793463c66cd2578ab1e3df00de894ca9193aa67"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/explosion.png",
+                      "sha256":  "42fab7f2ff63fb6b8b682220c472bc6f85ac6ece2dda912caffe4a6a73b6dedf"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/ezelol.png",
+                      "sha256":  "9968a92d374c87e5f4da99ac90e279f3d962a3b811ff7943411ce77235cd4a57"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/foxfireahrimurderous.png",
+                      "sha256":  "e800024e02fa06751ca117c97342af66643a798bc335a4fc4d751b65e63ce9d4"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/frieren-ooooooohhhhhh.png",
@@ -68,6 +92,10 @@
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/geto-happy.png",
                       "sha256":  "0b2640cfec6d4614680ba55bdc05ddc6868b2b8fa694ace70b77f004bf3812ef"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/geto-hehe.png",
+                      "sha256":  "299a88f15333e81b42b36d5bba6062ce490db3c256c3f4efd95f646814e2f29b"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/gojo-angry.png",
@@ -150,6 +178,22 @@
                       "sha256":  "16b63808cbd24cbf9e6296d9b6d9c01972ed656164f3721a94580b45579f6d41"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/megumin-heart.png",
+                      "sha256":  "b893fbb2bf3292737df2423832db87ca8f1105c537289feed25055779b82d6b0"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/MeguminPANIC.gif",
+                      "sha256":  "e823d2a8a1b9f618d8bba8542ebfe543d4f19005603cd3a4743447b5659782d2"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/megumin_blush.png",
+                      "sha256":  "24a6cda45c782d71fc821dfc794865c0e4cffc0c3f572bba454d89d566440c20"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/megupuke.png",
+                      "sha256":  "c91885c7248b4c8efd57d0137fff503c8b0892ff314075391aaac6fe7f11df89"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/money-frieren.png",
                       "sha256":  "c7155aef48bff99f30eac69ea7153583060e6d54a565eed31d40ac294403c19b"
                   },
@@ -168,6 +212,14 @@
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/okey-frieren.png",
                       "sha256":  "89302639c2ebfd53522bf264d18cdeb52a8ea2aef6dd42768054250478c01d75"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/omnimandissapointed.png",
+                      "sha256":  "20f1bc452ad1027f3a35fb8816eaa4d7b4fa4769499bdf6fef63bda0e51622d9"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/PickleRick.gif",
+                      "sha256":  "961c825a435d9e24c404881605f49530c257f93cffedb9217c75cfd03f1ebb2d"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/pikachuangry.png",
@@ -200,6 +252,26 @@
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/question-frieren.png",
                       "sha256":  "5fa7104f84386b605aea6c2d3d37f7ccb839be8f886ddbf7fc3fbeb4d087360f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/rem.png",
+                      "sha256":  "a47a0d5acfcd689759db3950aa28cfcd2e17b6c1928e3d6ce73ae92fb397faae"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/rezecalm.png",
+                      "sha256":  "1f0c8a78a497a740ab3c69f21d2bdb555e2570750f4fbede2931ad7620ceef48"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/rezeembarrassed.png",
+                      "sha256":  "e8fb468d99a22c705a3515660d05294e09e5ac73f41e5441573d81a4672760e4"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/rezeloveeyes.png",
+                      "sha256":  "fc3cdf3540a4a8d2d9b900ae56b1683268c3b742fbc0d86c7d77770541d86c73"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/rezethumbsup.png",
+                      "sha256":  "8a03908e5aec467465aa3f9383ea93c6a07bf0b5415b26321f7cae4232977508"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/rias-blushing.png",
@@ -256,6 +328,14 @@
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/sukuna.png",
                       "sha256":  "ed5f67d92a056b166aeac399bad41689834efca8f79acf4af5b0d3426ff8cfb1"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/sunglasses-rick-sanchez.png",
+                      "sha256":  "79c2fa6379e14354469d0f114ac197f99b5af18082d2540c0939d5145a338a99"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/talkingcat.png",
+                      "sha256":  "dccac67166157cb06d82ff3fa69ce88d33b83f68a3d2f2df16e3e14447a02742"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/terohi.png",
@@ -316,6 +396,26 @@
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/tonguechi.png",
                       "sha256":  "9f3e63b092d2b77ba32e7ecc16abce84c9d6fea796fd6183a7d221eb3866a55a"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/venti-screm.png",
+                      "sha256":  "30a16b48aed1479c13795269be899c0784361fc39fa66e12c9359b62a1fb0f69"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/venticool.png",
+                      "sha256":  "26294dfe13b15d56cbe07e587e86e967089771281716322f95b25fd410100045"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/ventiuwu.png",
+                      "sha256":  "0fecbce6f527c327c819515dd2c4d125bb01cac21a6cfab62bd3970faf2400b7"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/ventiwant.png",
+                      "sha256":  "1f7663bae823070826f338364880c78b0eeefbb284152fa4131b47d1e9cffafb"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/wooow.png",
+                      "sha256":  "a861234d3492669fc6cfe9c712a81659f8093b078d30f14f34b3f3f3460c0f5f"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/yes.png",
@@ -434,6 +534,42 @@
                       "sha256":  "acfd14ab5f48b8de2515eeeef6e2781d5e3af82859d2fd68b445cc08e7f66207"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/945762-purplebullet.png",
+                      "sha256":  "4d6ad69da8e37f05c6c86361db0c700d99cebdfffea1a76a37f49f7867747cf0"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/add.png",
+                      "sha256":  "6d26152393275322f9f11c30bb2e270910576dccb2c4667f98445c60f8a90238"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/admin-blue.png",
+                      "sha256":  "fc079f3835670695f6f24a7fe4db2e39d27d859bdae8cbf4df9b4f5057d1cb5e"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/admin-darkpurple.png",
+                      "sha256":  "e415881b3dfff711c5b60a05529b9132c49e10b412138f6ba5fac8576918c5c2"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/admin-grey.png",
+                      "sha256":  "ba9deb1f25892bb43be0cc0d3da9d0060703be21c3e93dbb1a2b799dbb280b65"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/admin-pink.png",
+                      "sha256":  "d915a90eede79c419a2e5f41d9cbd88d76352541836397dedac5a1c276dc8cf0"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/admin-turquoise.png",
+                      "sha256":  "cefc59c2f42447e3dd5bb0a2dc10ead1d3124f6f7db2ccf70ea37f2e25b39b52"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/admin-yellow.png",
+                      "sha256":  "ff313dce9c996f0a6ead51447ae83e2aa0bbeb4d250367ccf0e6ee84c75a8a7a"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/adultsonly-neon-red.png",
+                      "sha256":  "3fc19538eabe373791e733a9824f5c605652fa57c84729813895384ff987d977"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/badge1.png",
                       "sha256":  "3a6892c4abf956597b147924df879a44af60fd086eaeaaceb71cd2c44cc856f7"
                   },
@@ -451,14 +587,26 @@
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/badge5.png",
+                      "sha256":  "cb020dec73c2178231c76b944604bf204ce467146951c994c3d70d9269198bc8"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/badge56.png",
                       "sha256":  "f7da5fa09d1cb3bda720b9938589a12a67d9843d9ffdcb901d1de5e62d89733b"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/badge6.png",
+                      "sha256":  "22825618f33a714fa032bdd1f69c4bb91ea5a1b23fdda10a50638cd66eb4a7ad"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/badge65.png",
                       "sha256":  "4056fb3f3e1fd6078c004842c8f86f68e89b8263cb2e5fd2cafde6a579862ec2"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/badge7.png",
+                      "sha256":  "ff03ce24a3d7a2f71339160210d3d81bd6048e625b17c4d0be6fc08f55048ee6"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/badge77.png",
                       "sha256":  "80688a1445072af63b04ff3099e007bb09d03e8068eca7cbb5fb3f09beb3f2f8"
                   },
                   {
@@ -470,8 +618,24 @@
                       "sha256":  "a1910203a88610e676b18b4d61f43bf2c71c078b839917488d6ef1ce246c1593"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/bell-icon.png",
+                      "sha256":  "5f815c6744280526a72854f42b153b1b3af98ca79195747d9eb3c275500ef236"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/blue-guard.png",
+                      "sha256":  "9318b4272cc14a24a8ecec9b9b335ba644c32d16f75e53524c757f09bab4634f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/bluebulletpoint.png",
+                      "sha256":  "dc29c3511a1726d6654a8ab24c8a2c3819f664b0f91012071b12204af5ee91a6"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/book.png",
                       "sha256":  "716232b58bd54166b528418be553c70f670aba302b4db6c050cb0496484be9e0"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/booster.png",
+                      "sha256":  "52c60cec238581fe962eb63eef24c12bf885f2330ef2c6c96f0d80328c1378ac"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/calender.png",
@@ -482,8 +646,48 @@
                       "sha256":  "bf793b830b7ad5f67b77011dc8edfb8d39d81bedd49ce78f7c51aa51cc735343"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/communityserver.png",
+                      "sha256":  "0fae6a0ea0989534116cfcaad84aac59f0045f0aae689fbed2c2d285de07b57a"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/communityserver2.png",
+                      "sha256":  "54175b350d8f0125c87cf8e5f2eade124ae4f77e631156da6c0a13c3e6875011"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/contributor.png",
+                      "sha256":  "a2c1890cf5d8ce411858ccc315581e55c15df60cd1a5c78f592370947e8486c2"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/controller.png",
                       "sha256":  "93504b42cc157fda57158c31642bd37250bf8a58155ffc60dfb628c85642b44c"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/crown.png",
+                      "sha256":  "77943db827b47de8d4cdfa33ae31618b82e2dfdf16e7c881b7999200042416aa"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/cyanbulletpoint.png",
+                      "sha256":  "99e3c3d797733139f829e66349cb22921a8635b0f4b29dd114e2ac9217bf8b6d"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/cyancirclebulletpoint.png",
+                      "sha256":  "f9086c610fca78431b772654467fac982e95f9bf5050f122c1e5f684ebc63008"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/deepbluebullet.png",
+                      "sha256":  "5a4c1b60bfd3f5d56ec444522ef8eae5659a49b929d039aded249da0e8fffcb2"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/deeporangebullet.png",
+                      "sha256":  "f21337586a45a95d12c66bf452490f4f307d8672bb15933bc89aad4235e1f64f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/delete.png",
+                      "sha256":  "e31685e8f77f0e1e9e3ee6a223504c3d54aba6ba6b8653510d2302bb8f8192c5"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/deny.png",
+                      "sha256":  "26e3a2f7436dff2b3892cd0f569b7de1121d35d88a6dd888aaed0cd8b8b85d7b"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/dev1.png",
@@ -526,12 +730,264 @@
                       "sha256":  "1459b1f3099ef9c1088cb950f468c0fada3b95c33843bc693e1cfd01fe94820e"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/developer.png",
+                      "sha256":  "6187270cc8aaca100bc5160bffcc4a89d70eab022920ef5bf8aeb479af726193"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/developer2.png",
+                      "sha256":  "d007de7d37d71e9c87590864515cce0b175227e0a9104abd850fcaecdab77f1f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/discord.png",
+                      "sha256":  "a1603b1e88c45c54d3172641ea623b7fa55165dc6d0d45f962daace2beb9107a"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/event.png",
+                      "sha256":  "8f83154392acb3e801de95457fa5c980add83572cee3c34676758811c1198c0d"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/fadedredbulletpoint.png",
+                      "sha256":  "ca8e8fcaff02d1e81052d349033ba9911b7cf3bf1577772d147aa8e35c0e9f15"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/fadedyellowbullet.png",
+                      "sha256":  "cb3d7d7c186af6d481c795da507429a9d3e5c6a1150cec1ba83f4451c19222ec"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/fadedyellowbulletpoint.png",
+                      "sha256":  "655c0fa2f3c3b62722dd27774d3d0a87efda7423de881605dc0d5ea5e9f14c53"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/gavel.png",
                       "sha256":  "898652a0b850928132b1de737d0d415e65326d0fbda7e02ef534a6a0c073cc93"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-blue.png",
+                      "sha256":  "d4144df3f9138e548a8a0c1d362bc4bb64e6c0be1fd04ebe45e3d064a262f0ec"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-green.png",
+                      "sha256":  "74f21d0d07fd2813e3bef1f563ad9974b13ababfdd144b2917e40e5c2a12657b"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-pink.png",
+                      "sha256":  "d79213f925dabef66bc0a5d9eae975648d491da2c74d18de4fd116d3b9eef9e9"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-pink2.png",
+                      "sha256":  "3aeff648f84f116a6fead428e907fea396e693a16dc3a62ba3bff82c34d413c7"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-red.png",
+                      "sha256":  "48aafd27cc5d75ce1c3d28123680a28fa6a8affbc4a983162cdc42e56b67c232"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-white.png",
+                      "sha256":  "4f5e6627d257e32e05baf69dea907d63b4a184901ec1e10e418f6d4d14a7f9d9"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-yellow.png",
+                      "sha256":  "554d2f4c1cf1414eeae103bb471b764759967b313dfe270915cb1ff55c6968f5"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/greed-guard.png",
+                      "sha256":  "be6a94387e9b75845d72bf03a9755c66c5480d2f798e5f4170bb51ee61a47b0d"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/greenbulletpoint.png",
+                      "sha256":  "92ac77680a00218cc8a782610a2896cd88be9c7387023af3fcc9cbe2feea3923"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/greencirclebullet.png",
+                      "sha256":  "64dabd241875430dba5a1b985c227670b0121222f8acaf6738f802add2f817d1"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/grey-bot.png",
+                      "sha256":  "1ab9fa56f8ee75fa85ea7eddfc31ca2e6332ed520bc363c7ed94437060cfecea"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/headadmin.png",
+                      "sha256":  "f41c3ae6563cc3fa3942e29d3cde1152f80b322f8ffa7950c672c04980bda4ed"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/hotpinkbulletpoint.png",
+                      "sha256":  "5940ba99fef2d309b7bbddd8c31df76e967566ec4f9f26b284c5903e8c4ee2b8"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/info.png",
+                      "sha256":  "3c3f71baba1af8af5795ab76bd07f81d8ca72e2953571ddd706bb28b74e7be4c"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/ingame-moderator.png",
+                      "sha256":  "54a5b1a95d5fc4cff5430a91e983fb0c6d85fa1d88f80d4d7011b66955e66f4c"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/instagram.png",
+                      "sha256":  "178ecae792334b66d56d099428038e3b7542ae85059162d171e2e23120efd4b8"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/lavenderbullet.png",
+                      "sha256":  "d485e4bd3fcd216b097286918f00cff2ecb374a287621c013bbcbd1cfa22861c"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/lightcyanbullet.png",
+                      "sha256":  "08c87bb4c529557a3d57c88d9d72525072f551d658ae61792ba04b07a5b9cede"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/lightgreenbullet.png",
+                      "sha256":  "49534bd7fcce42fcbcb29afed6195e171e0bc686d924f8c106147db48e0c6f07"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/lightpinkbulletpoint.png",
+                      "sha256":  "347ec4012ffd5392a5d4b851694d1986eb2fec57a7cceb7002226ca82fcf546b"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/limegreenbullet.png",
+                      "sha256":  "fccd576ab829a76805fbd8495d1be2d6563e89d5214d103c440af8d202208d29"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/lowwarning.png",
                       "sha256":  "29657dae0ac3e52262def0c6267b2055823ba183396f18c9f9d1072377ebaa0a"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/management.png",
+                      "sha256":  "da9fa76a8229077beaa60699d6787f4de25ae83e4c878e3676ca9709eca00c4e"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/member.png",
+                      "sha256":  "c7401b6f0a08ba8640ddfa41534f6a49a562edb940fcccca591fe1499c7faa35"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/members.png",
+                      "sha256":  "e5eb3af189f032d6eecc1fc1d34aa0d72d62b493c4ee1967d9fcc4b72e27e668"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/moderator.png",
+                      "sha256":  "74f7b8c8b235e6fda8d3986b9d82def411dea170b2e8fff78c8d000ba8c466ab"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-gmail-icon.png",
+                      "sha256":  "30bae3d959b36118acef52b14707f96452d1e8682b904bbddc1ca3b3dd82def7"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-kick-logo.png",
+                      "sha256":  "b59bc2bb74ffaa2221d552aa1ea355a75d570f6c1182a5a761cfefc2325e9b74"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-reddit-icon.png",
+                      "sha256":  "c4112d9bf6f144eea6dde38ea3e1fe330abd43dfaa6aff9702e19aacaddb0c87"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-spotify-icon.png",
+                      "sha256":  "ca4b84d3472f61d6fc416d0ca8545febca3036eb753872413cc96b0d4c296770"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-steam-icon.png",
+                      "sha256":  "2f0b3bc832ae830e84177e588562ce84661119e2d5767934fe3d7bf11898ec12"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-streamlabs-logo.png",
+                      "sha256":  "1c326509383e644b842533003a0906bf579c3de4d3cdcad58e964296ef1cede4"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-twitter-bird.png",
+                      "sha256":  "c5fb9be85b50bbdce1c83a865a8b62283e7860f99c15eb31cd69834ab1f12b3e"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-youtube-playbutton.png",
+                      "sha256":  "dee4202bf4d6e2d249ace5f19b6c80766a3d216fa396045466416456f2b683e4"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/newmember.png",
+                      "sha256":  "4386765a8f7eacecd9de156b5ddfc2d8360a90fd0afbf40348ecd0af69efd335"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/orange-check.png",
+                      "sha256":  "9b9fc6ac722d7a85ec0fd5efc0a082392d3288caece2d8c6176a5afe3df5abe1"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/orangebullet.png",
+                      "sha256":  "f47680b1d04fa90813ac9331a85e19a143cead37ca1079141e4aebbb7659aef7"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/owner-gradient.png",
+                      "sha256":  "302856ced3b241f5d6b2e193de7108070eb49728ea5d9f710bcc1eed8983ae5b"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/owner2.png",
+                      "sha256":  "9cd66e6f14e207022e0fca1c66588ed0b28193361a4bc70a1d030b8314fca781"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/ownerroleicon.png",
+                      "sha256":  "b5f14586fda3d6c7df0f2ff73f613dd70322497aea6519aec856aee96d7e094b"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/pinkbullet.png",
+                      "sha256":  "f513fb5183a5d4afc8e38bf53b0e789469fdf043da44d53af06a1a2cd0ac6a6e"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/pinkbulletpoint.png",
+                      "sha256":  "e93935ce9bdc48686b314148b616e26cd5314193e34b35dd393c83a7db56b0d3"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/purple-cash.png",
+                      "sha256":  "765160c0e969b3cd997698b2475059c983e1498371d25ad43d2bf96d68cb34b6"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/purple-giard.png",
+                      "sha256":  "4d3bac043fbf9a1d1c9ef7f4354e359c7fb3b19b8fd3022f73734e1a8037033f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/purple-owner.png",
+                      "sha256":  "87950b397cc9c63bfc401c487bea0d793d557ee1a6b249b554bbc8d9a5344453"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/red-gift.png",
+                      "sha256":  "639833e396f5115c5172b18948158bac2ba8572413c40bc610ac99130d3c4fec"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/red-guard.png",
+                      "sha256":  "2c0b7e398d07e75136ff8f79f0fa650d37dc619ce1a39519287472fad4f74551"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/redbullet.png",
+                      "sha256":  "2b52cdf9db58ceb46b07d2c98ffbacaf783bc8ba29dbd2e9cb101fee6188f7d8"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/redbulletpoint.png",
+                      "sha256":  "3bb84efd48ca498fadb586b62841068132441f29f83f6f08b4bbbbf1ece0c16b"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/remove.png",
+                      "sha256":  "751ad27b318c48b96d10bf1f70eba2b4e514d1f630da3db8196ca6d833514ffe"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/retiredstaff.png",
+                      "sha256":  "d59aafac4575d4e78d46b5144a9e6c9c78b23e299d22dd2180694807af78c478"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-admin-blue.png",
+                      "sha256":  "c04c2925d77d18dfd3f2e4013e33b3a76e0360a41858cf3306bcdbc187c1c17c"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-admin-green.png",
+                      "sha256":  "611b8dfe2a9adde9b2cbbd557bef224e551bf9127758b2a21cefbaf32bcc6fb8"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-admin-orange.png",
+                      "sha256":  "63720029d864490e9263e637a80c32f66bcd7bbdaf8b984d95b5100771b4d056"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-admin-pink.png",
+                      "sha256":  "31dbfae90b0cc0ba40083643cd7fbe7f301200cad898d94c3d8973cd9f9b01b6"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-admin-red.png",
+                      "sha256":  "bf573e95e906fe4f02004ca2a53f2602899add7472d9d4748ac61ea4603abfb8"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-admin-white.png",
+                      "sha256":  "0fd8c81d4d72bf26a92a7b930739133aa98963241a67b9ace68ed52d2ef4c28a"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-booster.png",
@@ -544,6 +1000,34 @@
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-member.png",
                       "sha256":  "cb6f470a183b23cedd10c82899792aee23eee9ac8297c2f9a4d11c3d119f018b"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-blue.png",
+                      "sha256":  "cfc425a889f0c6482945cd3aa8804daa911221a7ec2a8e78d1322f15f53f6858"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-orange.png",
+                      "sha256":  "30e343cca45ae7b73e56a16dfad9cc7e0b5a604fff14ca1f7797179e2341af78"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-pink.png",
+                      "sha256":  "c2886c95f228755f41ca7157cd817f250d806525dabb3e8887877b6129be4aa4"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-purple.png",
+                      "sha256":  "82ab4b6ebb2bba8a0876547b71ced5386c65a959fb2dd0524eae48d34e97aa18"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-red.png",
+                      "sha256":  "cd6cfcfc474ed35b8557ada570f6e675080d38c1d5ebf89fe32c305fb4dd6c60"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-white.png",
+                      "sha256":  "bb476d9c0ecd4118933d038c33063bb9434277c1ce0180f31030780b1e77cb23"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-yellow.png",
+                      "sha256":  "6a466b604ca48e44eb32466ba741771b2c062a543d79c3af8baffcecf1e4df43"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-owner.png",
@@ -580,6 +1064,14 @@
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/rules7.png",
                       "sha256":  "3a65bca0ad3b577df8da9967d86776778c3009b8796bf5d8e11aa0e9b55749ab"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/salmonhuebullet.png",
+                      "sha256":  "feb31dffdc0b911ecba33186cbca6b3abc269a17dae2a9739ce395204d5c9199"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/seniormoderator.png",
+                      "sha256":  "f6e049375eed17e4a9cd4e4fd383051bf9a693c0466ba9da4053efe38cd340c7"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/server-boost-1-month-alt.png",
@@ -798,6 +1290,10 @@
                       "sha256":  "2043a79c7cf5927e8e7ba36375127cf30e05fa67946f8cd0f45aa692504f57d0"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/square-checkmark.png",
+                      "sha256":  "25062675f9f6991b7ea22a1c3ad9bd3ae5a9644ef5856c8f65c91dc06a07e505"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/stars1.png",
                       "sha256":  "0fbdffcd02415e5e7d94a139539ecbc187ddc31d78f195f505f4f35fdc397045"
                   },
@@ -830,12 +1326,96 @@
                       "sha256":  "55a3cc922f9b1db4dba80a14787f3d57053b165030879a51693e55818984c42a"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/ticket.png",
+                      "sha256":  "76c33d1b4b5bbc692420ed93121baae5b66961b734ab615fdbcda94bf9e0df26"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/tiktok.png",
+                      "sha256":  "b82545b8713ef3992600f728ba844794d87a4837d8aa41caf4c5d3cfe5abcad7"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/tomatobulletpoint.png",
+                      "sha256":  "5129974e36af3f8b802ded12d9796330bd3f10e9a9916d208596e220ca0730a3"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/trialmoderator.png",
+                      "sha256":  "6ee4ddafdc33f3fc532e8370ed29696ef99499ce135379fc7eee05e8d97ad649"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/tts-external-link.png",
                       "sha256":  "e1de0d0cb851873961fde95f1e7552451cf5809a0f564dcd25e7944ec89666cf"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/twitch.png",
+                      "sha256":  "afab1098ed97de30149c6c008718ac52dfe9938192102b0a2b54b0f84bdd007a"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/twitter.png",
+                      "sha256":  "eba0c9a4592e3eeab1036163444fadfcd0fd19559a6ba7fc924e6cf85546f1ca"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-black.png",
+                      "sha256":  "a88c1fc2ef14815759d97541090ca4d4b518a04d85981cffe4c117f71bf284eb"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-blue.png",
+                      "sha256":  "753bf6b7893b60f724f8f92102c55bf07c349fca226ddd74a1d4fca424a29a12"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-green.png",
+                      "sha256":  "d86018955a6bc10c566b0d042139af5e0036145b13660042493c73e9698a75d7"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-lightblue.png",
+                      "sha256":  "18189575bf38ef6104fe4d5f0adfbad55116deaef8cf655cc1c3e96d06bc7f1f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-purple.png",
+                      "sha256":  "8a10ab81500869f91966160eb958ab4e616b4adea0cb234c0febb0baccfb5a0e"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-turquoise.png",
+                      "sha256":  "98ba9e9223edd49ea0e4ae30b0ee1f9f72fc2507fa75f10ebf8c3cfd5ca2bbe5"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-white.png",
+                      "sha256":  "e0a3c634e6d9b4bc84e7af02748cca2b99fa025cbd0d2ba6a34e2005aa4ef72e"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-yellow.png",
+                      "sha256":  "448a2d19667261927b717b2d225a06caee365f3d7259678b0036d03eeda5f184"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/warn.png",
                       "sha256":  "4821bb3d72915b6cf3739a23bc402f5bfd057f636655a65bc920fdedcb907d03"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/warning.png",
+                      "sha256":  "acaba7698f857cb696aa2f3096c5c33e4ac1c95c1a765d7a482cd41ecf92e904"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/xmark.png",
+                      "sha256":  "91e0297f6015cc7ccd69a1b07098068f789aa3c7ca464795d051c2b81e55efd9"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/yellow-admin-gradient.png",
+                      "sha256":  "ecd3d1cd33ec4fec8e489c94cf2d60bfbcda7a5c407b5d4ad8a4c0897bc7227f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/yellow-owner-badge.png",
+                      "sha256":  "477be364303d42c3aeed6b556b5081b74ae270579e2c16775338fb7472d40cd6"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/yellow-star.png",
+                      "sha256":  "a42def6e918de0754352fb16d38cb8270e255b67db75f7286be53a39229136a8"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/yellowbullet.png",
+                      "sha256":  "40b61bebf56a1a3e5328168731a3cf7c8032f35a187cec1eff57d2f3b33737fb"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/youtube.png",
+                      "sha256":  "b102788bec29b984b3f08a605b42836e9a8804c7b250c3a4d9037a606cc159df"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/flags/flag.ad.png",
@@ -5754,6 +6334,210 @@
                       "sha256":  "a2dc8566b6059640376a1944b1150af5dbde4e38c14fbe1e336299aaa833ac1d"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-alert.png",
+                      "sha256":  "c282a40c0867b8a93577aa7413e5f3e19841b7fefd45750eca3f037b5f74ee82"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-ammobox.png",
+                      "sha256":  "e8f4eab74cfde6f83a069c902a82a8ae93657ab3e312394b8f5aeae04ba2930d"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-ammocrate.png",
+                      "sha256":  "03e1829adedd121c33eda8db9395a5eec05531260554b0ec4d22781eaa5d35da"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-approved.png",
+                      "sha256":  "26d91472270157a34499d5cc014ce3dc68104c53e1fa22d97b184629b0bae384"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-armed.png",
+                      "sha256":  "8f9de9c0a21fc4cf8ba1aa659d00c91937299caeac1c74f8e9c4743010214f91"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-bandage.png",
+                      "sha256":  "779fd88982f27006558ce5b8263e9710fe400a758faab6b9313f2a481bd8afb4"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-bear.png",
+                      "sha256":  "bdba3c0d6a4be8720ede143c278b1dab547d52a80f124fd42d2b381a25d1e2ee"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-boar.png",
+                      "sha256":  "a6aa66cd13329f61cb2b63aab136cf4175b02a30a05d4bc015a1bfe741718176"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-bones.png",
+                      "sha256":  "567767e5669ba20a5998b9bf4afb886ea28c0a61c763d2954fdf45fecb9fa01e"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-campfire.png",
+                      "sha256":  "97ab25b8f83e16eb4275b216ad355e8520ef2a3be69bd9512e7f3c8cc42c636d"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-confused.png",
+                      "sha256":  "3921d6fcc876666b4fe15119e2a5bf62d9b956682d79417f085e9b07a5973b94"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-coolraccoon.png",
+                      "sha256":  "b37d5302ea5573b4e4cfb905a1f4490e7b21640de7c50530717eac5f4aee8ddf"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-crying.png",
+                      "sha256":  "b7a0c1f36a16cc2a12f8871dce4b7bdb7c306b9478290c8ea60788f0f647219a"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-deer.png",
+                      "sha256":  "103fd3d83ca42896294538d5510efa2b6cdc9cd45dcf7395d213f2b444bffa8e"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-denied.png",
+                      "sha256":  "d45ed86b54eda7cae3558c2f28b7eb729ece7075f49d421e8e32bf8cee7c1e67"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-ez.png",
+                      "sha256":  "86d34a9571bff59da4bde10cb1b665079153e118e49d988379bea184e75bac2e"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-facepalm.png",
+                      "sha256":  "252b86bb50464556737a35eebbb6ea19c646782c13ab0b79530277c17febcd9a"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-furnace.png",
+                      "sha256":  "47d76462db030cb5832c9d3e424443002a6dc0d1f14efec587ccce59f3ebac13"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-gg.png",
+                      "sha256":  "aa3658e0afd30de4840ae2f09cbcee2b6e29679f0c496f79c8b967fc3f1ee70f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-ggsign.png",
+                      "sha256":  "fbfd4248a8166d741a2c2349df2c0a5f52b9fcf4c63edad4248fb2bc5184ff74"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-greensyringe.png",
+                      "sha256":  "c8016a271824c08367c9dbaad98f04342f8662b0758aa0029a2c9b9a240f4b06"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-hazmat.png",
+                      "sha256":  "99d727560197531ea7fd142788a111b98295916372b4b5bb76560c0a05043fbc"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-hazmatok.png",
+                      "sha256":  "1e22fec679ec832210d869cae4ac226eda569accdb553f3741da74cffc434ad0"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-idea.png",
+                      "sha256":  "df7cc032f019d876db4f7b73a430da9c7a1ea354b0a6131d68de4db5d885d404"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-inlove.png",
+                      "sha256":  "c4e65bf2aa37912ca87d881cf12d77bfd63f06f715a7251b8bfc369001562b84"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-lfg.png",
+                      "sha256":  "11d7f4dd1002c9bc7c213186adb2f882e5dcb193575eed274d19026fc8be7ff3"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-lootcrate.png",
+                      "sha256":  "a42318b456df1e23a37e8c4d96a0cf89e528a1b3647bfee4525a1c6437c5aa7a"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-medkit.png",
+                      "sha256":  "411c600fb32d1b9a86d045e9ef83acf0b3cc30f5faadd4a70d12c1db261d8888"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-nuclear.png",
+                      "sha256":  "249e010aa131c7d5c1db22358a78665bfdb031a976b3cd7ab5fcae9db9954fc8"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-onfire.png",
+                      "sha256":  "109f86d1fd49e68fb2e8bd89d48bacbce9819dffca1c77f6bfa4eef73e7ebd6f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-party.png",
+                      "sha256":  "65327709351fb97d03da106f483405a72c466a4399751460efd7c99bb7b74730"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-peeking.png",
+                      "sha256":  "e8d4b81e5b87017328f4313a3ef15f511a02c787062c04503b649aafab02de81"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-pepecool.png",
+                      "sha256":  "8d02f7a49c1b320bb441da7bc4b5a5aa85239e35b835843f3a2bbce09c8f2cb0"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-pepesad.png",
+                      "sha256":  "f54b070ff987c4b5d304a12d866ec32729ef85e0c288d465271beb202c34f91d"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-pepeshocked.png",
+                      "sha256":  "c6f16aaf6270569ddb1954030be23ecda6876250880d59148d09fd06cd96026b"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-pepesmug.png",
+                      "sha256":  "35e2ac099d3b703c96f1c96d53487df7a1f1e379d66813032946f699af3b68eb"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-pumpkin.png",
+                      "sha256":  "83450e435db00509b89043ef652354edb3c40a63432934bdf2b926ceb856a12f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-pvp.png",
+                      "sha256":  "5b8de9139f35b0804563d3836d8a431b09044f5d471cd622e7f523ca1e35434c"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-radiation.png",
+                      "sha256":  "d317ba715ef685be42d74a08d7f3c4e9f00231ea8bcb3b9eed31ff3cdb66fbe0"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-redsyringe.png",
+                      "sha256":  "d584d9ecb5f1f4651c227b6b943b7d419839b393a499af97cc30254e49f26065"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-rip.png",
+                      "sha256":  "6037eeb176fd2ee65deb3ddcefa795b0510540d1043120ba1853fd6ebee20feb"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-rooster.png",
+                      "sha256":  "92e45e37b3785cffbdf10bac0e1f5e7bb6599b411db0e9df87264c41360b9347"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-rustlogo.png",
+                      "sha256":  "0f8d440b48d08b6162e74d406585d72432e53fc860f841772b3020b239402102"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-rustsign.png",
+                      "sha256":  "d16c5a05d0e25071c37d59797e1434e75dae74edc54bad27a8480599ed27912b"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-sad.png",
+                      "sha256":  "66e69cba7494c733dc70edc1f0f435c763dc73f8f10cde106baa0c985349312d"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-shush.png",
+                      "sha256":  "2b23939a7704cf3b3e1d52a74a3485928d0e1b98846efdbcebb6397eee056890"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-skull.png",
+                      "sha256":  "dc85b33ece5c7e23db5b7fe2e8c5d0bbf6882aff518874d845985a0ef42be97a"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-wave.png",
+                      "sha256":  "a06fa6c55df6e5a29d0f1366d0e47acd51d20279f0f4a20a3be6429b9f52bd18"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-wolf.png",
+                      "sha256":  "71ca0cf3aa83ab7e0ffd32fde783e3f968b8bca9cd960d18326bca4ca15ad5a9"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-wrust.png",
+                      "sha256":  "0d1ae4717b9deb166d7eb00d545073c342ed405ed1e167e1051b834ce89d3322"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/oscustom.png",
+                      "sha256":  "b52bab040d970da8be9efffad9d2bd2f49d7ec0bedc33eedf836693f90fed1be"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/pepe/crying.png",
                       "sha256":  "3075ec2d00001012a971043fce0558e9cbd6bf873f66b3590b1a4f8f24b393f3"
                   },
@@ -5990,6 +6774,10 @@
                       "sha256":  "54cf540e70a75d266229ee81892dff970ffaf15b1934ae9405d49ddbc1a0261b"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/10.png",
+                      "sha256":  "4d88ff01b7dd3282f3e632eea493cfbb26513e7a7347bee09f810ed84cfa7a87"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/angry-scream.png",
                       "sha256":  "7da4ad989462583d1882d0aad60dfa8381742d0f0347911c80f8ffc791e27ee0"
                   },
@@ -6038,6 +6826,10 @@
                       "sha256":  "1555d7a482a6f642055a4044de6b6d150fcea041195dff7f0289afb51317d078"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/frozen.png",
+                      "sha256":  "39891d855de310685407041bb439c21fb16854f8b1b46793f5db2c51ea88e009"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/gg.png",
                       "sha256":  "626ee5fc3b9e76b432fd74f4daa7e5a891ba6d31d587458661c55830df610a6e"
                   },
@@ -6046,8 +6838,16 @@
                       "sha256":  "224fa69b07156a3fc87ca8673b774363cadcf28e59e4bebdefab60a41a5685b2"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/hehehe.png",
+                      "sha256":  "983a721072e8c7ae5c63aa6122790fe07fa52da509942080279647d21dd4c628"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/jetthappy.png",
                       "sha256":  "eb14b30ed8a367821f2a255b7384ba612a8e2e98d153d50b01d2f26a58ac0740"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/keeeek.png",
+                      "sha256":  "631b1c3306a55eef04ff61cca6ed1aae3b9cb63931b2c11516793b5d43503208"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/kek.png",
@@ -6060,814 +6860,6 @@
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/monohot.png",
                       "sha256":  "b03caf224d65a1132c2df96ddff9cbbfc35169af252a0b962d6956f0f30db7d2"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/peace_ramdom.png",
-                      "sha256":  "04f8281ddef28c557d1e7bb14c78ac3956b0607717b11031524e6a5f1a047935"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/plotting_ramdom.png",
-                      "sha256":  "df7de8cd5cc63c034b93afd88cd25596ef1558f579440c17498dc0d78ea59094"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/rememberemoji.png",
-                      "sha256":  "a2afed69249b6a54a89d7f9df0fa4ab6daf6220334f9faf8cfe41996cb390326"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/shhhhh_ramdom.png",
-                      "sha256":  "4424c0fc10632970862a6904730baa9ee1f1170fc645a43ac00c01bf4dc75dfc"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/sonimcrine.png",
-                      "sha256":  "e8cc3a66de9dd3ee4279bc42597dc6a19fe269ed3e4923ae8b1c5ab8bd1acb97"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/4322-104-mortyoof.png",
-                      "sha256":  "424409c89020943f124b385ba4df85e2904d30a2b56b98468323f60c9c8ab2cf"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/blueMee6.png",
-                      "sha256":  "4f12ce2286a85cd830bb7720b1f8b185c2ec5146f52dd8bd3de2b7508141fbc5"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/chfoxfireahrilaugh.png",
-                      "sha256":  "965af7c9b34cab827563247d0fb5740ac721a1378f5f3892d868dce5b976cfc5"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/explosion.png",
-                      "sha256":  "42fab7f2ff63fb6b8b682220c472bc6f85ac6ece2dda912caffe4a6a73b6dedf"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/ezelol.png",
-                      "sha256":  "9968a92d374c87e5f4da99ac90e279f3d962a3b811ff7943411ce77235cd4a57"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/foxfireahrimurderous.png",
-                      "sha256":  "e800024e02fa06751ca117c97342af66643a798bc335a4fc4d751b65e63ce9d4"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/geto-hehe.png",
-                      "sha256":  "299a88f15333e81b42b36d5bba6062ce490db3c256c3f4efd95f646814e2f29b"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/megumin-heart.png",
-                      "sha256":  "b893fbb2bf3292737df2423832db87ca8f1105c537289feed25055779b82d6b0"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/MeguminPANIC.gif",
-                      "sha256":  "e823d2a8a1b9f618d8bba8542ebfe543d4f19005603cd3a4743447b5659782d2"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/megumin_blush.png",
-                      "sha256":  "24a6cda45c782d71fc821dfc794865c0e4cffc0c3f572bba454d89d566440c20"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/megupuke.png",
-                      "sha256":  "c91885c7248b4c8efd57d0137fff503c8b0892ff314075391aaac6fe7f11df89"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/omnimandissapointed.png",
-                      "sha256":  "20f1bc452ad1027f3a35fb8816eaa4d7b4fa4769499bdf6fef63bda0e51622d9"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/PickleRick.gif",
-                      "sha256":  "961c825a435d9e24c404881605f49530c257f93cffedb9217c75cfd03f1ebb2d"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/rem.png",
-                      "sha256":  "a47a0d5acfcd689759db3950aa28cfcd2e17b6c1928e3d6ce73ae92fb397faae"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/rezecalm.png",
-                      "sha256":  "1f0c8a78a497a740ab3c69f21d2bdb555e2570750f4fbede2931ad7620ceef48"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/rezeembarrassed.png",
-                      "sha256":  "e8fb468d99a22c705a3515660d05294e09e5ac73f41e5441573d81a4672760e4"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/rezeloveeyes.png",
-                      "sha256":  "fc3cdf3540a4a8d2d9b900ae56b1683268c3b742fbc0d86c7d77770541d86c73"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/rezethumbsup.png",
-                      "sha256":  "8a03908e5aec467465aa3f9383ea93c6a07bf0b5415b26321f7cae4232977508"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/sunglasses-rick-sanchez.png",
-                      "sha256":  "79c2fa6379e14354469d0f114ac197f99b5af18082d2540c0939d5145a338a99"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/talkingcat.png",
-                      "sha256":  "dccac67166157cb06d82ff3fa69ce88d33b83f68a3d2f2df16e3e14447a02742"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/venti-screm.png",
-                      "sha256":  "30a16b48aed1479c13795269be899c0784361fc39fa66e12c9359b62a1fb0f69"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/venticool.png",
-                      "sha256":  "26294dfe13b15d56cbe07e587e86e967089771281716322f95b25fd410100045"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/ventiuwu.png",
-                      "sha256":  "0fecbce6f527c327c819515dd2c4d125bb01cac21a6cfab62bd3970faf2400b7"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/ventiwant.png",
-                      "sha256":  "1f7663bae823070826f338364880c78b0eeefbb284152fa4131b47d1e9cffafb"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/anime/wooow.png",
-                      "sha256":  "a861234d3492669fc6cfe9c712a81659f8093b078d30f14f34b3f3f3460c0f5f"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/945762-purplebullet.png",
-                      "sha256":  "4d6ad69da8e37f05c6c86361db0c700d99cebdfffea1a76a37f49f7867747cf0"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/add.png",
-                      "sha256":  "6d26152393275322f9f11c30bb2e270910576dccb2c4667f98445c60f8a90238"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/admin-blue.png",
-                      "sha256":  "fc079f3835670695f6f24a7fe4db2e39d27d859bdae8cbf4df9b4f5057d1cb5e"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/admin-darkpurple.png",
-                      "sha256":  "e415881b3dfff711c5b60a05529b9132c49e10b412138f6ba5fac8576918c5c2"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/admin-grey.png",
-                      "sha256":  "ba9deb1f25892bb43be0cc0d3da9d0060703be21c3e93dbb1a2b799dbb280b65"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/admin-pink.png",
-                      "sha256":  "d915a90eede79c419a2e5f41d9cbd88d76352541836397dedac5a1c276dc8cf0"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/admin-turquoise.png",
-                      "sha256":  "cefc59c2f42447e3dd5bb0a2dc10ead1d3124f6f7db2ccf70ea37f2e25b39b52"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/admin-yellow.png",
-                      "sha256":  "ff313dce9c996f0a6ead51447ae83e2aa0bbeb4d250367ccf0e6ee84c75a8a7a"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/adultsonly-neon-red.png",
-                      "sha256":  "3fc19538eabe373791e733a9824f5c605652fa57c84729813895384ff987d977"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/bell-icon.png",
-                      "sha256":  "5f815c6744280526a72854f42b153b1b3af98ca79195747d9eb3c275500ef236"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/blue-guard.png",
-                      "sha256":  "9318b4272cc14a24a8ecec9b9b335ba644c32d16f75e53524c757f09bab4634f"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/bluebulletpoint.png",
-                      "sha256":  "dc29c3511a1726d6654a8ab24c8a2c3819f664b0f91012071b12204af5ee91a6"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/booster.png",
-                      "sha256":  "52c60cec238581fe962eb63eef24c12bf885f2330ef2c6c96f0d80328c1378ac"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/communityserver.png",
-                      "sha256":  "0fae6a0ea0989534116cfcaad84aac59f0045f0aae689fbed2c2d285de07b57a"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/communityserver2.png",
-                      "sha256":  "54175b350d8f0125c87cf8e5f2eade124ae4f77e631156da6c0a13c3e6875011"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/contributor.png",
-                      "sha256":  "a2c1890cf5d8ce411858ccc315581e55c15df60cd1a5c78f592370947e8486c2"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/crown.png",
-                      "sha256":  "77943db827b47de8d4cdfa33ae31618b82e2dfdf16e7c881b7999200042416aa"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/cyanbulletpoint.png",
-                      "sha256":  "99e3c3d797733139f829e66349cb22921a8635b0f4b29dd114e2ac9217bf8b6d"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/cyancirclebulletpoint.png",
-                      "sha256":  "f9086c610fca78431b772654467fac982e95f9bf5050f122c1e5f684ebc63008"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/deepbluebullet.png",
-                      "sha256":  "5a4c1b60bfd3f5d56ec444522ef8eae5659a49b929d039aded249da0e8fffcb2"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/deeporangebullet.png",
-                      "sha256":  "f21337586a45a95d12c66bf452490f4f307d8672bb15933bc89aad4235e1f64f"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/delete.png",
-                      "sha256":  "e31685e8f77f0e1e9e3ee6a223504c3d54aba6ba6b8653510d2302bb8f8192c5"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/deny.png",
-                      "sha256":  "26e3a2f7436dff2b3892cd0f569b7de1121d35d88a6dd888aaed0cd8b8b85d7b"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/developer.png",
-                      "sha256":  "6187270cc8aaca100bc5160bffcc4a89d70eab022920ef5bf8aeb479af726193"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/developer2.png",
-                      "sha256":  "d007de7d37d71e9c87590864515cce0b175227e0a9104abd850fcaecdab77f1f"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/discord.png",
-                      "sha256":  "a1603b1e88c45c54d3172641ea623b7fa55165dc6d0d45f962daace2beb9107a"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/event.png",
-                      "sha256":  "8f83154392acb3e801de95457fa5c980add83572cee3c34676758811c1198c0d"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/fadedredbulletpoint.png",
-                      "sha256":  "ca8e8fcaff02d1e81052d349033ba9911b7cf3bf1577772d147aa8e35c0e9f15"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/fadedyellowbullet.png",
-                      "sha256":  "cb3d7d7c186af6d481c795da507429a9d3e5c6a1150cec1ba83f4451c19222ec"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/fadedyellowbulletpoint.png",
-                      "sha256":  "655c0fa2f3c3b62722dd27774d3d0a87efda7423de881605dc0d5ea5e9f14c53"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-blue.png",
-                      "sha256":  "d4144df3f9138e548a8a0c1d362bc4bb64e6c0be1fd04ebe45e3d064a262f0ec"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-green.png",
-                      "sha256":  "74f21d0d07fd2813e3bef1f563ad9974b13ababfdd144b2917e40e5c2a12657b"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-pink.png",
-                      "sha256":  "d79213f925dabef66bc0a5d9eae975648d491da2c74d18de4fd116d3b9eef9e9"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-pink2.png",
-                      "sha256":  "3aeff648f84f116a6fead428e907fea396e693a16dc3a62ba3bff82c34d413c7"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-red.png",
-                      "sha256":  "48aafd27cc5d75ce1c3d28123680a28fa6a8affbc4a983162cdc42e56b67c232"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-white.png",
-                      "sha256":  "4f5e6627d257e32e05baf69dea907d63b4a184901ec1e10e418f6d4d14a7f9d9"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/glowing-dot-yellow.png",
-                      "sha256":  "554d2f4c1cf1414eeae103bb471b764759967b313dfe270915cb1ff55c6968f5"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/greed-guard.png",
-                      "sha256":  "be6a94387e9b75845d72bf03a9755c66c5480d2f798e5f4170bb51ee61a47b0d"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/greenbulletpoint.png",
-                      "sha256":  "92ac77680a00218cc8a782610a2896cd88be9c7387023af3fcc9cbe2feea3923"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/greencirclebullet.png",
-                      "sha256":  "64dabd241875430dba5a1b985c227670b0121222f8acaf6738f802add2f817d1"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/grey-bot.png",
-                      "sha256":  "1ab9fa56f8ee75fa85ea7eddfc31ca2e6332ed520bc363c7ed94437060cfecea"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/headadmin.png",
-                      "sha256":  "f41c3ae6563cc3fa3942e29d3cde1152f80b322f8ffa7950c672c04980bda4ed"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/hotpinkbulletpoint.png",
-                      "sha256":  "5940ba99fef2d309b7bbddd8c31df76e967566ec4f9f26b284c5903e8c4ee2b8"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/info.png",
-                      "sha256":  "3c3f71baba1af8af5795ab76bd07f81d8ca72e2953571ddd706bb28b74e7be4c"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/ingame-moderator.png",
-                      "sha256":  "54a5b1a95d5fc4cff5430a91e983fb0c6d85fa1d88f80d4d7011b66955e66f4c"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/instagram.png",
-                      "sha256":  "178ecae792334b66d56d099428038e3b7542ae85059162d171e2e23120efd4b8"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/lavenderbullet.png",
-                      "sha256":  "d485e4bd3fcd216b097286918f00cff2ecb374a287621c013bbcbd1cfa22861c"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/lightcyanbullet.png",
-                      "sha256":  "08c87bb4c529557a3d57c88d9d72525072f551d658ae61792ba04b07a5b9cede"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/lightgreenbullet.png",
-                      "sha256":  "49534bd7fcce42fcbcb29afed6195e171e0bc686d924f8c106147db48e0c6f07"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/lightpinkbulletpoint.png",
-                      "sha256":  "347ec4012ffd5392a5d4b851694d1986eb2fec57a7cceb7002226ca82fcf546b"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/limegreenbullet.png",
-                      "sha256":  "fccd576ab829a76805fbd8495d1be2d6563e89d5214d103c440af8d202208d29"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/management.png",
-                      "sha256":  "da9fa76a8229077beaa60699d6787f4de25ae83e4c878e3676ca9709eca00c4e"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/member.png",
-                      "sha256":  "c7401b6f0a08ba8640ddfa41534f6a49a562edb940fcccca591fe1499c7faa35"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/members.png",
-                      "sha256":  "e5eb3af189f032d6eecc1fc1d34aa0d72d62b493c4ee1967d9fcc4b72e27e668"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/moderator.png",
-                      "sha256":  "74f7b8c8b235e6fda8d3986b9d82def411dea170b2e8fff78c8d000ba8c466ab"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-gmail-icon.png",
-                      "sha256":  "30bae3d959b36118acef52b14707f96452d1e8682b904bbddc1ca3b3dd82def7"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-kick-logo.png",
-                      "sha256":  "b59bc2bb74ffaa2221d552aa1ea355a75d570f6c1182a5a761cfefc2325e9b74"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-reddit-icon.png",
-                      "sha256":  "c4112d9bf6f144eea6dde38ea3e1fe330abd43dfaa6aff9702e19aacaddb0c87"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-spotify-icon.png",
-                      "sha256":  "ca4b84d3472f61d6fc416d0ca8545febca3036eb753872413cc96b0d4c296770"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-steam-icon.png",
-                      "sha256":  "2f0b3bc832ae830e84177e588562ce84661119e2d5767934fe3d7bf11898ec12"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-streamlabs-logo.png",
-                      "sha256":  "1c326509383e644b842533003a0906bf579c3de4d3cdcad58e964296ef1cede4"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-twitter-bird.png",
-                      "sha256":  "c5fb9be85b50bbdce1c83a865a8b62283e7860f99c15eb31cd69834ab1f12b3e"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/neon-youtube-playbutton.png",
-                      "sha256":  "dee4202bf4d6e2d249ace5f19b6c80766a3d216fa396045466416456f2b683e4"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/newmember.png",
-                      "sha256":  "4386765a8f7eacecd9de156b5ddfc2d8360a90fd0afbf40348ecd0af69efd335"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/orange-check.png",
-                      "sha256":  "9b9fc6ac722d7a85ec0fd5efc0a082392d3288caece2d8c6176a5afe3df5abe1"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/orangebullet.png",
-                      "sha256":  "f47680b1d04fa90813ac9331a85e19a143cead37ca1079141e4aebbb7659aef7"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/owner-gradient.png",
-                      "sha256":  "302856ced3b241f5d6b2e193de7108070eb49728ea5d9f710bcc1eed8983ae5b"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/owner2.png",
-                      "sha256":  "9cd66e6f14e207022e0fca1c66588ed0b28193361a4bc70a1d030b8314fca781"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/ownerroleicon.png",
-                      "sha256":  "b5f14586fda3d6c7df0f2ff73f613dd70322497aea6519aec856aee96d7e094b"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/pinkbullet.png",
-                      "sha256":  "f513fb5183a5d4afc8e38bf53b0e789469fdf043da44d53af06a1a2cd0ac6a6e"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/pinkbulletpoint.png",
-                      "sha256":  "e93935ce9bdc48686b314148b616e26cd5314193e34b35dd393c83a7db56b0d3"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/purple-cash.png",
-                      "sha256":  "765160c0e969b3cd997698b2475059c983e1498371d25ad43d2bf96d68cb34b6"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/purple-giard.png",
-                      "sha256":  "4d3bac043fbf9a1d1c9ef7f4354e359c7fb3b19b8fd3022f73734e1a8037033f"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/purple-owner.png",
-                      "sha256":  "87950b397cc9c63bfc401c487bea0d793d557ee1a6b249b554bbc8d9a5344453"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/red-gift.png",
-                      "sha256":  "639833e396f5115c5172b18948158bac2ba8572413c40bc610ac99130d3c4fec"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/red-guard.png",
-                      "sha256":  "2c0b7e398d07e75136ff8f79f0fa650d37dc619ce1a39519287472fad4f74551"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/redbullet.png",
-                      "sha256":  "2b52cdf9db58ceb46b07d2c98ffbacaf783bc8ba29dbd2e9cb101fee6188f7d8"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/redbulletpoint.png",
-                      "sha256":  "3bb84efd48ca498fadb586b62841068132441f29f83f6f08b4bbbbf1ece0c16b"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/remove.png",
-                      "sha256":  "751ad27b318c48b96d10bf1f70eba2b4e514d1f630da3db8196ca6d833514ffe"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/retiredstaff.png",
-                      "sha256":  "d59aafac4575d4e78d46b5144a9e6c9c78b23e299d22dd2180694807af78c478"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-admin-blue.png",
-                      "sha256":  "c04c2925d77d18dfd3f2e4013e33b3a76e0360a41858cf3306bcdbc187c1c17c"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-admin-green.png",
-                      "sha256":  "611b8dfe2a9adde9b2cbbd557bef224e551bf9127758b2a21cefbaf32bcc6fb8"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-admin-orange.png",
-                      "sha256":  "63720029d864490e9263e637a80c32f66bcd7bbdaf8b984d95b5100771b4d056"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-admin-pink.png",
-                      "sha256":  "31dbfae90b0cc0ba40083643cd7fbe7f301200cad898d94c3d8973cd9f9b01b6"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-admin-red.png",
-                      "sha256":  "bf573e95e906fe4f02004ca2a53f2602899add7472d9d4748ac61ea4603abfb8"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-admin-white.png",
-                      "sha256":  "0fd8c81d4d72bf26a92a7b930739133aa98963241a67b9ace68ed52d2ef4c28a"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-blue.png",
-                      "sha256":  "cfc425a889f0c6482945cd3aa8804daa911221a7ec2a8e78d1322f15f53f6858"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-orange.png",
-                      "sha256":  "30e343cca45ae7b73e56a16dfad9cc7e0b5a604fff14ca1f7797179e2341af78"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-pink.png",
-                      "sha256":  "c2886c95f228755f41ca7157cd817f250d806525dabb3e8887877b6129be4aa4"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-purple.png",
-                      "sha256":  "82ab4b6ebb2bba8a0876547b71ced5386c65a959fb2dd0524eae48d34e97aa18"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-red.png",
-                      "sha256":  "cd6cfcfc474ed35b8557ada570f6e675080d38c1d5ebf89fe32c305fb4dd6c60"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-white.png",
-                      "sha256":  "bb476d9c0ecd4118933d038c33063bb9434277c1ce0180f31030780b1e77cb23"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/role-mod-yellow.png",
-                      "sha256":  "6a466b604ca48e44eb32466ba741771b2c062a543d79c3af8baffcecf1e4df43"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/salmonhuebullet.png",
-                      "sha256":  "feb31dffdc0b911ecba33186cbca6b3abc269a17dae2a9739ce395204d5c9199"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/seniormoderator.png",
-                      "sha256":  "f6e049375eed17e4a9cd4e4fd383051bf9a693c0466ba9da4053efe38cd340c7"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/square-checkmark.png",
-                      "sha256":  "25062675f9f6991b7ea22a1c3ad9bd3ae5a9644ef5856c8f65c91dc06a07e505"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/ticket.png",
-                      "sha256":  "76c33d1b4b5bbc692420ed93121baae5b66961b734ab615fdbcda94bf9e0df26"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/tiktok.png",
-                      "sha256":  "b82545b8713ef3992600f728ba844794d87a4837d8aa41caf4c5d3cfe5abcad7"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/tomatobulletpoint.png",
-                      "sha256":  "5129974e36af3f8b802ded12d9796330bd3f10e9a9916d208596e220ca0730a3"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/trialmoderator.png",
-                      "sha256":  "6ee4ddafdc33f3fc532e8370ed29696ef99499ce135379fc7eee05e8d97ad649"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/twitch.png",
-                      "sha256":  "afab1098ed97de30149c6c008718ac52dfe9938192102b0a2b54b0f84bdd007a"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/twitter.png",
-                      "sha256":  "eba0c9a4592e3eeab1036163444fadfcd0fd19559a6ba7fc924e6cf85546f1ca"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-black.png",
-                      "sha256":  "a88c1fc2ef14815759d97541090ca4d4b518a04d85981cffe4c117f71bf284eb"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-blue.png",
-                      "sha256":  "753bf6b7893b60f724f8f92102c55bf07c349fca226ddd74a1d4fca424a29a12"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-green.png",
-                      "sha256":  "d86018955a6bc10c566b0d042139af5e0036145b13660042493c73e9698a75d7"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-lightblue.png",
-                      "sha256":  "18189575bf38ef6104fe4d5f0adfbad55116deaef8cf655cc1c3e96d06bc7f1f"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-purple.png",
-                      "sha256":  "8a10ab81500869f91966160eb958ab4e616b4adea0cb234c0febb0baccfb5a0e"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-turquoise.png",
-                      "sha256":  "98ba9e9223edd49ea0e4ae30b0ee1f9f72fc2507fa75f10ebf8c3cfd5ca2bbe5"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-white.png",
-                      "sha256":  "e0a3c634e6d9b4bc84e7af02748cca2b99fa025cbd0d2ba6a34e2005aa4ef72e"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/verified-yellow.png",
-                      "sha256":  "448a2d19667261927b717b2d225a06caee365f3d7259678b0036d03eeda5f184"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/warning.png",
-                      "sha256":  "acaba7698f857cb696aa2f3096c5c33e4ac1c95c1a765d7a482cd41ecf92e904"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/xmark.png",
-                      "sha256":  "91e0297f6015cc7ccd69a1b07098068f789aa3c7ca464795d051c2b81e55efd9"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/yellow-admin-gradient.png",
-                      "sha256":  "ecd3d1cd33ec4fec8e489c94cf2d60bfbcda7a5c407b5d4ad8a4c0897bc7227f"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/yellow-owner-badge.png",
-                      "sha256":  "477be364303d42c3aeed6b556b5081b74ae270579e2c16775338fb7472d40cd6"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/yellow-star.png",
-                      "sha256":  "a42def6e918de0754352fb16d38cb8270e255b67db75f7286be53a39229136a8"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/yellowbullet.png",
-                      "sha256":  "40b61bebf56a1a3e5328168731a3cf7c8032f35a187cec1eff57d2f3b33737fb"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/decoration/youtube.png",
-                      "sha256":  "b102788bec29b984b3f08a605b42836e9a8804c7b250c3a4d9037a606cc159df"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-alert.png",
-                      "sha256":  "c282a40c0867b8a93577aa7413e5f3e19841b7fefd45750eca3f037b5f74ee82"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-ammobox.png",
-                      "sha256":  "e8f4eab74cfde6f83a069c902a82a8ae93657ab3e312394b8f5aeae04ba2930d"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-ammocrate.png",
-                      "sha256":  "03e1829adedd121c33eda8db9395a5eec05531260554b0ec4d22781eaa5d35da"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-approved.png",
-                      "sha256":  "26d91472270157a34499d5cc014ce3dc68104c53e1fa22d97b184629b0bae384"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-armed.png",
-                      "sha256":  "8f9de9c0a21fc4cf8ba1aa659d00c91937299caeac1c74f8e9c4743010214f91"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-bandage.png",
-                      "sha256":  "779fd88982f27006558ce5b8263e9710fe400a758faab6b9313f2a481bd8afb4"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-bear.png",
-                      "sha256":  "bdba3c0d6a4be8720ede143c278b1dab547d52a80f124fd42d2b381a25d1e2ee"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-boar.png",
-                      "sha256":  "a6aa66cd13329f61cb2b63aab136cf4175b02a30a05d4bc015a1bfe741718176"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-bones.png",
-                      "sha256":  "567767e5669ba20a5998b9bf4afb886ea28c0a61c763d2954fdf45fecb9fa01e"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-campfire.png",
-                      "sha256":  "97ab25b8f83e16eb4275b216ad355e8520ef2a3be69bd9512e7f3c8cc42c636d"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-confused.png",
-                      "sha256":  "3921d6fcc876666b4fe15119e2a5bf62d9b956682d79417f085e9b07a5973b94"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-coolraccoon.png",
-                      "sha256":  "b37d5302ea5573b4e4cfb905a1f4490e7b21640de7c50530717eac5f4aee8ddf"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-crying.png",
-                      "sha256":  "b7a0c1f36a16cc2a12f8871dce4b7bdb7c306b9478290c8ea60788f0f647219a"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-deer.png",
-                      "sha256":  "103fd3d83ca42896294538d5510efa2b6cdc9cd45dcf7395d213f2b444bffa8e"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-denied.png",
-                      "sha256":  "d45ed86b54eda7cae3558c2f28b7eb729ece7075f49d421e8e32bf8cee7c1e67"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-ez.png",
-                      "sha256":  "86d34a9571bff59da4bde10cb1b665079153e118e49d988379bea184e75bac2e"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-facepalm.png",
-                      "sha256":  "252b86bb50464556737a35eebbb6ea19c646782c13ab0b79530277c17febcd9a"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-furnace.png",
-                      "sha256":  "47d76462db030cb5832c9d3e424443002a6dc0d1f14efec587ccce59f3ebac13"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-gg.png",
-                      "sha256":  "aa3658e0afd30de4840ae2f09cbcee2b6e29679f0c496f79c8b967fc3f1ee70f"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-ggsign.png",
-                      "sha256":  "fbfd4248a8166d741a2c2349df2c0a5f52b9fcf4c63edad4248fb2bc5184ff74"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-greensyringe.png",
-                      "sha256":  "c8016a271824c08367c9dbaad98f04342f8662b0758aa0029a2c9b9a240f4b06"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-hazmat.png",
-                      "sha256":  "99d727560197531ea7fd142788a111b98295916372b4b5bb76560c0a05043fbc"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-hazmatok.png",
-                      "sha256":  "1e22fec679ec832210d869cae4ac226eda569accdb553f3741da74cffc434ad0"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-idea.png",
-                      "sha256":  "df7cc032f019d876db4f7b73a430da9c7a1ea354b0a6131d68de4db5d885d404"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-inlove.png",
-                      "sha256":  "c4e65bf2aa37912ca87d881cf12d77bfd63f06f715a7251b8bfc369001562b84"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-lfg.png",
-                      "sha256":  "11d7f4dd1002c9bc7c213186adb2f882e5dcb193575eed274d19026fc8be7ff3"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-lootcrate.png",
-                      "sha256":  "a42318b456df1e23a37e8c4d96a0cf89e528a1b3647bfee4525a1c6437c5aa7a"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-medkit.png",
-                      "sha256":  "411c600fb32d1b9a86d045e9ef83acf0b3cc30f5faadd4a70d12c1db261d8888"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-nuclear.png",
-                      "sha256":  "249e010aa131c7d5c1db22358a78665bfdb031a976b3cd7ab5fcae9db9954fc8"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-onfire.png",
-                      "sha256":  "109f86d1fd49e68fb2e8bd89d48bacbce9819dffca1c77f6bfa4eef73e7ebd6f"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-party.png",
-                      "sha256":  "65327709351fb97d03da106f483405a72c466a4399751460efd7c99bb7b74730"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-peeking.png",
-                      "sha256":  "e8d4b81e5b87017328f4313a3ef15f511a02c787062c04503b649aafab02de81"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-pepecool.png",
-                      "sha256":  "8d02f7a49c1b320bb441da7bc4b5a5aa85239e35b835843f3a2bbce09c8f2cb0"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-pepesad.png",
-                      "sha256":  "f54b070ff987c4b5d304a12d866ec32729ef85e0c288d465271beb202c34f91d"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-pepeshocked.png",
-                      "sha256":  "c6f16aaf6270569ddb1954030be23ecda6876250880d59148d09fd06cd96026b"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-pepesmug.png",
-                      "sha256":  "35e2ac099d3b703c96f1c96d53487df7a1f1e379d66813032946f699af3b68eb"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-pumpkin.png",
-                      "sha256":  "83450e435db00509b89043ef652354edb3c40a63432934bdf2b926ceb856a12f"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-pvp.png",
-                      "sha256":  "5b8de9139f35b0804563d3836d8a431b09044f5d471cd622e7f523ca1e35434c"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-radiation.png",
-                      "sha256":  "d317ba715ef685be42d74a08d7f3c4e9f00231ea8bcb3b9eed31ff3cdb66fbe0"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-redsyringe.png",
-                      "sha256":  "d584d9ecb5f1f4651c227b6b943b7d419839b393a499af97cc30254e49f26065"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-rip.png",
-                      "sha256":  "6037eeb176fd2ee65deb3ddcefa795b0510540d1043120ba1853fd6ebee20feb"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-rooster.png",
-                      "sha256":  "92e45e37b3785cffbdf10bac0e1f5e7bb6599b411db0e9df87264c41360b9347"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-rustlogo.png",
-                      "sha256":  "0f8d440b48d08b6162e74d406585d72432e53fc860f841772b3020b239402102"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-rustsign.png",
-                      "sha256":  "d16c5a05d0e25071c37d59797e1434e75dae74edc54bad27a8480599ed27912b"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-sad.png",
-                      "sha256":  "66e69cba7494c733dc70edc1f0f435c763dc73f8f10cde106baa0c985349312d"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-shush.png",
-                      "sha256":  "2b23939a7704cf3b3e1d52a74a3485928d0e1b98846efdbcebb6397eee056890"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-skull.png",
-                      "sha256":  "dc85b33ece5c7e23db5b7fe2e8c5d0bbf6882aff518874d845985a0ef42be97a"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-wave.png",
-                      "sha256":  "a06fa6c55df6e5a29d0f1366d0e47acd51d20279f0f4a20a3be6429b9f52bd18"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-wolf.png",
-                      "sha256":  "71ca0cf3aa83ab7e0ffd32fde783e3f968b8bca9cd960d18326bca4ca15ad5a9"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/os-wrust.png",
-                      "sha256":  "0d1ae4717b9deb166d7eb00d545073c342ed405ed1e167e1051b834ce89d3322"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/oscustom/oscustom.png",
-                      "sha256":  "b52bab040d970da8be9efffad9d2bd2f49d7ec0bedc33eedf836693f90fed1be"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/10.png",
-                      "sha256":  "4d88ff01b7dd3282f3e632eea493cfbb26513e7a7347bee09f810ed84cfa7a87"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/frozen.png",
-                      "sha256":  "39891d855de310685407041bb439c21fb16854f8b1b46793f5db2c51ea88e009"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/hehehe.png",
-                      "sha256":  "983a721072e8c7ae5c63aa6122790fe07fa52da509942080279647d21dd4c628"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/keeeek.png",
-                      "sha256":  "631b1c3306a55eef04ff61cca6ed1aae3b9cb63931b2c11516793b5d43503208"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/neon-apple.png",
@@ -6918,16 +6910,36 @@
                       "sha256":  "cd88deaf79ea73d1cc461b1b4e6ad74ead337293441bf819dfbc91d00d5e0d6f"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/peace_ramdom.png",
+                      "sha256":  "04f8281ddef28c557d1e7bb14c78ac3956b0607717b11031524e6a5f1a047935"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/piensa.png",
                       "sha256":  "99f58eb7f403d10d20645d63628dc0a8100ffe13d925ff4e2d0e120f75d30b23"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/plotting_ramdom.png",
+                      "sha256":  "df7de8cd5cc63c034b93afd88cd25596ef1558f579440c17498dc0d78ea59094"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/reaaal.png",
                       "sha256":  "3c8c84068beba30161f90c77d1939b46c3200bf62f86dc4622a89dc646173a1e"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/rememberemoji.png",
+                      "sha256":  "a2afed69249b6a54a89d7f9df0fa4ab6daf6220334f9faf8cfe41996cb390326"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/shhhhh_ramdom.png",
+                      "sha256":  "4424c0fc10632970862a6904730baa9ee1f1170fc645a43ac00c01bf4dc75dfc"
+                  },
+                  {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/skull-donot.png",
                       "sha256":  "aa4794f22ba6ad2fa8bef75a7e2a1691bb4a8c1f9900f2ba569f9c561831bd54"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/sonimcrine.png",
+                      "sha256":  "e8cc3a66de9dd3ee4279bc42597dc6a19fe269ed3e4923ae8b1c5ab8bd1acb97"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/emojis/ramdom/wtf2.png",
