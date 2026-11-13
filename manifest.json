@@ -18,6 +18,10 @@
                       "sha256":  "5363e4baa82c1158695f8385f92516d27e08c77bdff3b5f05368972e88ee1bda"
                   },
                   {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/EmojiChat.dll",
+                      "sha256":  "efb689ec1bdf07616fe1603ae55f6d48544b3365829707105a154c21fd84c31f"
+                  },
+                  {
                       "path":  "GameLauncher/winhttp.dll",
                       "sha256":  "d3b62f4c9c3e2196ef82603c52d6b98c043a0d6c125c081fd33d7ca3798b41b8"
                   },
