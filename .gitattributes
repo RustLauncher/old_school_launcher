@@ -1,0 +1,15 @@
+# Archivos que el launcher verifica por hash: git NO debe convertir los finales
+# de linea (LF<->CRLF). Si lo hiciera, el hash dejaria de cuadrar con el del
+# manifiesto y el launcher daria "no es valido (hash)".
+GameLauncher/doorstop_config.ini binary
+*.ini binary
+*.exe binary
+*.dll binary
+
+# Pack de emojis: binarios sin extension (emoji.school/emoji.old) e indice de
+# texto (index.txt), todos verificados por hash. Binario para que git nunca
+# altere su contenido (ni finales de linea).
+GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/pack/** binary
+
+# Videos del menu (verificados por hash). Binario para que git no los altere.
+*.mp4 binary

@@ -1,0 +1,129 @@
+{
+    "version":  "1.9.6",
+    "files":  [
+                  {
+                      "path":  "RustLauncher.exe",
+                      "sha256":  "4fcf3b4e04a09ddfcf72a7321694e287eba221433cea2f8be3ac50c0ddad3ff4"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Plugins/x86_64/EasyAntiCheat.dll",
+                      "sha256":  "485799dcf308d8866fad43e6c1ce38f69a2c3d0129c6fe38581dfbce1fdbade0"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/ArgosEyeBooster.dll",
+                      "sha256":  "adb11c4bf9a1b74e24a4d7b7714c27e534a02d71477ef4014ab8c558ecd6d9b4"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/OpenURLPlugin.dll",
+                      "sha256":  "5363e4baa82c1158695f8385f92516d27e08c77bdff3b5f05368972e88ee1bda"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/EmojiChat.dll",
+                      "sha256":  "7e9fc9ff58b31b346394267bacb7999609c6c5ae3ee8ebc256ce93be65b912e1"
+                  },
+                  {
+                      "path":  "GameLauncher/winhttp.dll",
+                      "sha256":  "d3b62f4c9c3e2196ef82603c52d6b98c043a0d6c125c081fd33d7ca3798b41b8"
+                  },
+                  {
+                      "path":  "GameLauncher/doorstop_config.ini",
+                      "sha256":  "98d4b6f2e25109341433964d8ebe3699c3cf4501b97994debd40736a7f340431"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/pack/emoji.old",
+                      "sha256":  "77ac9dd05920d6a8481e851a74b4a5c2400f3fcf6557dd6dec28c005cb4620f5"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/pack/emoji.school",
+                      "sha256":  "f0801951bfd83ce30c6bd36fc8c9257c135bad5663049ecbe1e406801b3284b0"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/pack/index.txt",
+                      "sha256":  "c89b12e15b63cd6c768e11fbdc7beceace086ce526aa11d882d63edac1816f07"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/autoturret.mp4",
+                      "sha256":  "1fe7568c6d52319791ffdcdddfd8ba677c48d961b9fe78f9bcbfa9040cf493c5"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/boatvillage1.mp4",
+                      "sha256":  "054e4432aff88e3689869d09b32c29e0ba2cd84fc5b6282d7cd81305b51957b5"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/boatvillage2.mp4",
+                      "sha256":  "4b3b59af930d1f9cdcdfaafeec1b40bca84270950772c91652fc5e258f967a46"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/boatvillage3.mp4",
+                      "sha256":  "2294ca37308e68ec9826e4bf6efe91e9c22a7657152e61e7fd44c04ecf1b0436"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/dome.mp4",
+                      "sha256":  "668d7f1b1c082e914dea52b903e19228def18768dd811de45522b569d5cb0b78"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/excv.mp4",
+                      "sha256":  "7e46e6a56a441b2591cdb30723b96bc912cc83c7566e2c932232ffc971de2378"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/farming.mp4",
+                      "sha256":  "0fdf7f7520c7039a71930a30737400cc4334908a4e610c9869850d03f2a10e56"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/harbor1.mp4",
+                      "sha256":  "21eaf1e5aaff09a3c274b0e15b2787ba98e051a41ee1fffcdf86a4471c6c85f8"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/horse.mp4",
+                      "sha256":  "67fc9c6937c3a1eb80c8b01bdd11e47e47749f6de877f4694e953e6abd1763fd"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/lighthouse.mp4",
+                      "sha256":  "d78d647374a44c56c0f54a53647370cad20fbb6a5deeacf8762aa38f6e314155"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/modularvehicles.mp4",
+                      "sha256":  "8e96d4568ed787472a383b270a70ad186990e879414306ffd59d31f2fee38c7f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/oilrig.mp4",
+                      "sha256":  "185a2fa7dc908d55c8c61fafd2a2f0b538c80af6c5aebff8fe1b3d24997bc4c1"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/outpost.mp4",
+                      "sha256":  "c1c6821d5136ef4ff1ee4720b23693b7f9ae8e378b3f87fb1d52b53f3837fe11"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/powerplant.mp4",
+                      "sha256":  "868e146e01b90dccfb229f43d82ec51a0c2aeb6fb5b40560abe5ced96f9f1819"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/scrapheli.mp4",
+                      "sha256":  "3462e41d15fc3927e94b5ffa96f09b26266262e714e82c738bc9d3c5522f764f"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/stables.mp4",
+                      "sha256":  "ce3b6fef7ae14f11f44015f75aa956747e055284f2b4048598e3eef1964fcbe6"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/sunset.mp4",
+                      "sha256":  "83d52d790869c6bb04973de97f32c0706f0e0afb163e372a155a85a9ecf57f4d"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/supermarket.mp4",
+                      "sha256":  "466d311a984d419f9f4973f7836af10bf318584adb17b10f00f9237fa335a1b8"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/swamp.mp4",
+                      "sha256":  "64854743d2d134d9da9eaab1694d094a0bbf62d1a5807adf925d2fc4b6d783f6"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/watertreatment.mp4",
+                      "sha256":  "7cab6594da45aab2709f0d7fdddb152d24cb94323ba1c83b38b455a587444a84"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/wellcome.mp4",
+                      "sha256":  "b048ba3e698a5d7926455fb642ed57afd1c5a937a1e36132c3712a5176b8e263"
+                  }
+              ]
+}
