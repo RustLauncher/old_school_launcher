@@ -3,11 +3,7 @@
     "files":  [
                   {
                       "path":  "RustLauncher.exe",
-                      "sha256":  "6e621b04c28e8f4da3fd50a98db7488d0ff191e4af945c9788c63cdfeda57b63"
-                  },
-                  {
-                      "path":  "GameLauncher/GameLauncher_Data/Plugins/x86_64/EasyAntiCheat.dll",
-                      "sha256":  "485799dcf308d8866fad43e6c1ce38f69a2c3d0129c6fe38581dfbce1fdbade0"
+                      "sha256":  "8d6efec4501d4c81eb2f21d9c8c3ea1d2d3b889b0dbafac8752633773de0ad51"
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/ArgosEyeBooster.dll",
@@ -19,7 +15,11 @@
                   },
                   {
                       "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/EmojiChat.dll",
-                      "sha256":  "7e9fc9ff58b31b346394267bacb7999609c6c5ae3ee8ebc256ce93be65b912e1"
+                      "sha256":  "109187757d5ba644b42b69fa8144804655fc19bded3dc8fb6b3be0cb46592a95"
+                  },
+                  {
+                      "path":  "GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/ReconnectPlugin.dll",
+                      "sha256":  "008f974f1a193c43cc6b9ab93a15b131cfadf08c896d2e73d31f523d0c020bee"
                   },
                   {
                       "path":  "GameLauncher/winhttp.dll",
@@ -122,8 +122,8 @@
                       "sha256":  "7cab6594da45aab2709f0d7fdddb152d24cb94323ba1c83b38b455a587444a84"
                   },
                   {
-                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/wellcome.mp4",
-                      "sha256":  "b048ba3e698a5d7926455fb642ed57afd1c5a937a1e36132c3712a5176b8e263"
+                      "path":  "GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/welcome.mp4",
+                      "sha256":  "5a9d305fe3c60285004ea9fca21024a98eede6045405db66dec9872a0595da87"
                   }
               ]
 }

@@ -6,9 +6,6 @@
 !RustLauncher.exe
 !GameLauncher/
 !GameLauncher/GameLauncher_Data/
-!GameLauncher/GameLauncher_Data/Plugins/
-!GameLauncher/GameLauncher_Data/Plugins/x86_64/
-!GameLauncher/GameLauncher_Data/Plugins/x86_64/EasyAntiCheat.dll
 !GameLauncher/GameLauncher_Data/Resources/
 !GameLauncher/GameLauncher_Data/Resources/default/
 !GameLauncher/GameLauncher_Data/Resources/default/renew/
@@ -18,6 +15,7 @@
 !GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/ArgosEyeBooster.dll
 !GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/OpenURLPlugin.dll
 !GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/EmojiChat.dll
+!GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/ReconnectPlugin.dll
 !GameLauncher/winhttp.dll
 !GameLauncher/doorstop_config.ini
 !GameLauncher/GameLauncher_Data/Resources/default/renew/libs/steamdb/plugins/pack/
@@ -46,4 +44,4 @@
 !GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/supermarket.mp4
 !GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/swamp.mp4
 !GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/watertreatment.mp4
-!GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/wellcome.mp4
+!GameLauncher/GameLauncher_Data/StreamingAssets/MenuVideo/welcome.mp4
